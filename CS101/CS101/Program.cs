@@ -6,8 +6,7 @@ namespace WorkingProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Class!");
-            Console.ReadKey();
+            // do your code here
         }
     }
 }

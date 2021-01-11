@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE1", "SE1\SE1.csproj", "{9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Slide Show Examples", "Slide Show Examples", "{EABFFF1C-310F-42E4-8814-610667FE8356}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lessons", "Lessons", "{FF644128-F0FB-4DC3-94E3-0BEE5EC92301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApp", "HelloWorldApp\HelloWorldApp.csproj", "{2F66992E-49E5-41FD-95FC-D05B2F939061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,17 @@ Global
 		{9CC17B19-69DB-4D17-B8AA-1F86B4AE7AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CC17B19-69DB-4D17-B8AA-1F86B4AE7AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CC17B19-69DB-4D17-B8AA-1F86B4AE7AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F66992E-49E5-41FD-95FC-D05B2F939061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F66992E-49E5-41FD-95FC-D05B2F939061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F66992E-49E5-41FD-95FC-D05B2F939061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F66992E-49E5-41FD-95FC-D05B2F939061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9CC17B19-69DB-4D17-B8AA-1F86B4AE7AAC} = {EABFFF1C-310F-42E4-8814-610667FE8356}
+		{2F66992E-49E5-41FD-95FC-D05B2F939061} = {FF644128-F0FB-4DC3-94E3-0BEE5EC92301}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F70F386C-F239-4BCF-A82F-4863D3658C0B}
